@@ -1,4 +1,4 @@
-# Weather App – Mobile App Development Project
+# Weather App – CS4084 Mobile App Development Project
 
 This project is an **Android weather application** developed using Android Studio. The app allows users to view current weather information, forecasts, and maps for various locations, with the ability to save favourite locations.  
 
