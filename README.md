@@ -59,6 +59,4 @@ Key features include:
 
 **Favourite Locations Feature**  
 ![Weather Favourites](images/weather.gif)  
-*Demonstrates bookmarking cities to a favourites section and viewing brief weather overviews.*  
-
----
+*Demonstrates bookmarking cities to a favourites section and viewing brief weather overviews.*
